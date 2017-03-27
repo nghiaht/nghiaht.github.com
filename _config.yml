@@ -1,7 +1,7 @@
-title: Nghiaht.github.com
-description: User Page
+title: NghiaHT.github.com
+description: Huỳnh Trọng Nghĩa
 google_analytics: 
-show_downloads: true
+show_downloads: false
 theme: jekyll-theme-minimal
 
 gems:
