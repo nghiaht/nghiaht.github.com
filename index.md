@@ -9,7 +9,7 @@ BCS of the University of Information Technology - Vietnam National University, H
 
 ### Past-n-Ongoing Projects (latest first)
 
-The following lines would use the pronoun "I" very much! Because it is my stories.
+The following lines would use the pronoun "I" very much! Because they are my stories.
 
 * Slither.io-based game services
 
