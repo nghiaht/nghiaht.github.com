@@ -1,56 +1,41 @@
-## Nghia Huynh Trong (@nghiaht)
+## About
 
-* First released: _2012/12/27_
-* Second revised: _2017/03/27_
+Nghia, Huynh Trong (@nghiaht) - Born in Quang Ngai and now currently working in Ho Chi Minh City, Vietnam.
 
 ### Education Background
 
-BCS of the University of Information Technology - Vietnam National University, Ho Chi Minh City (VNU-HCM UIT 2011 - 2015)
+* B.C.S - Computer Science - University of Information Technology ([uit.edu.vn](https://www.uit.edu.vn)) : 2011 - 2015.
 
-### Past-n-Ongoing Projects (latest first)
+### Technical Experience
 
-The following lines would use the pronoun "I" very much! Because they are my stories.
+* 4yrs+ of experience as a Full Stack Developer from the startup: Squarebit Studio.   
+  Main: backend development, web development and tech ops.
+* Check out my up-to-date [resume](https://i.topcv.vn/huynhtrongnghia?ref=1753252), [Linkedin](https://www.linkedin.com/in/nghia-huynh-trong).
 
-* Slither.io-based game services
 
-  I take main responsibility to develop the game services, a RESTed API providing flows for clients, from payments to other game features.
-  This project is written in Node.JS, using Loopback (IBM) framework, and yup, Loopback is still a good choice (like Django in Python).
-  
-  I also developed a background-services for collecting stats, player's status, also in Node.JS 
-  but now we (my team) are moving into Java (Spring Boot), using RabbitMQ, Redis for easier scales.
-  
-  Along with the services is the admin backend admin, I have had much time working with React, Redux to develop them.
-    
-* Fishing-hunt game
+## Additional Information
 
-  I had few first steps co-working on this project, I supported the development of payment system, integrated 
-  third party payment providers from old protocols like SOAP to the newer ones like REST API.
-  
-  I also developed the admin backend using React, Redux.
+* Co-founded [Soft World Studio](https://softworld.studio) - my graduate college classmates team for delivering core, refined web applications.
+* Excited if you have intention to hire or fund me on external, community projects.
 
-* The Parking System
-  
-  When I first started my first internship , I worked on and developed new features for the existing parking system backend, 
-  implement parking fee paygate, fees are calculated by blocks or turns.
-  
-  I also experienced long and hard work of reports in .xlsx format.
-  
-  At the nearly end of this project, I developed a coupon-based system, that means this parking system is put within a centre mall, supermarket..;
-  customers use coupons to discount their parking fee.
-  
-  This project is written in Python, using Django framework, and after a long time getting along with that, 
-  Django is still a good choice, provides flexible, built-in and fast prototype for similar projects 
+### Other Activities
 
-### Others
+* [S-key](https://nghiaht.github.io/skey): Vietnamese Input Method Engine implements the [Tubinhtran-MS](http://chuvietnhanh.sf.net) typing method.
 
 * Community Language Translations
 
-  I love translating English to Vietnamese, when I was young (several years ago), I spend my thinkings (perfect for choosing the right words) to translate free, open source projects.
-  Including: Transifex, Ubuntu, Moodle, Univernal Subtitles. Now I don't have much time!
-
+  I love translating from English to Vietnamese, when I was young (several years ago), I spend my thinkings (perfect for choosing the right words) to translate free, open source projects.
+  Including: Transifex, Ubuntu, Moodle, Univernal Subtitles, Crowdin. Now I don't have much time!
+  
 * "Freemind" authors
 
-  High school's literature books had some effects to my writing style. Sometimes I spend times writing posts, and I think it's not bad.  
- 
- 
+  High school's literature books had some effects to my writing style. Sometimes I spend times writing posts with first philosophy: just small things, not to be extraordinary.
 
+  Check out [Soft World Studio Blog](https://softworldstudio.blogspot.com/)  
+
+ 
+``` 
+First released: 2012/12/27
+Second revised: 2017/03/27
+Third revised : 2019/01/12
+```
