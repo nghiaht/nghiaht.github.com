@@ -33,7 +33,10 @@ Nghia, Huynh Trong (@nghiaht) - Born in Quang Ngai and now currently working in 
 
   Check out [Soft World Studio Blog](https://softworldstudio.blogspot.com/)  
 
- 
+* Github repositories: [github.com/nghiaht](https://github.com/nghiaht)
+
+* Movements on [Stackoverflow](https://stackoverflow.com/users/story/2145213)
+
 ``` 
 First released: 2012/12/27
 Second revised: 2017/03/27
