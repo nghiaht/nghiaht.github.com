@@ -15,12 +15,12 @@ Nghia, Huynh Trong (@nghiaht) - Born in Quang Ngai and now currently working in 
 
 ## Additional Information
 
-* Co-founded [Soft World Studio](https://softworld.studio) - my graduate college classmates team for delivering core, refined web applications.
+* Teamed up [Soft World Studio](https://softworld.studio) - my graduate college classmates team for delivering core, refined web applications.
 * Excited if you have intention to hire or fund me on external, community projects.
 
 ### Other Activities
 
-* [S-key](https://nghiaht.github.io/skey): Vietnamese Input Method Engine implements the [Tubinhtran-MS](http://chuvietnhanh.sf.net) typing method.
+* [S-key](https://nghiaht.github.io/skey): Vietnamese Input Method Engine which implements the [Tubinhtran-MS](http://chuvietnhanh.sf.net) and Chữ Việt Nhanh method.
 
 * Community Language Translations
 
