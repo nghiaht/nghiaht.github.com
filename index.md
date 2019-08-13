@@ -20,7 +20,7 @@ Nghia, Huynh Trong (@nghiaht) - Born in Quang Ngai and now currently working in 
 
 ### Other Activities
 
-* [S-key](https://nghiaht.github.io/skey): Vietnamese Input Method Engine which implements the [Tubinhtran-MS](http://chuvietnhanh.sf.net) and Chữ Việt Nhanh method.
+* [ChuVietNhanhKey](https://chuvietnhanhkey.sourceforge.io): Vietnamese Fast Input Engine which implements the [ChuVietNhanh](http://chuvietnhanh.sf.net) accent typing method and Chữ Việt Nhanh shortcut method.
 
 * Community Language Translations
 
